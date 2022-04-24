@@ -11,6 +11,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  text-align: center;
 }
 
 .title {
@@ -36,4 +37,10 @@
 
 .dogukyilmaz {
   color: #b01fd5;
+}
+
+@media (max-width: 600px) {
+  .title {
+    font-size: 2rem;
+  }
 }
