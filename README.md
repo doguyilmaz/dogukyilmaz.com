@@ -13,6 +13,7 @@ The new project's GitHub repository: [doguyilmaz/doguyilmaz.com](https://github.
 - **First Commit:** `1f4b2c88d870aacf1162eb250477734476bff3c7` (`Initial commit from Create Next App`) by `doguyilmaz` on **April 24, 2022**  
 - **Archived:** **January 14, 2025**  
 - **Active Period:** April 2022 – January 2025  
+- **Last Live URL:** [dogukyilmaz.vercel.app](https://dogukyilmaz.vercel.app)  
 
 ---
 
