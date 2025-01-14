@@ -20,4 +20,4 @@ The new project's GitHub repository: [doguyilmaz/doguyilmaz.com](https://github.
 ### Note:
 - This repository was a placeholder website and is no longer maintained or updated.  
 - The last live version of this website can be accessed at: [dogukyilmaz.vercel.app](https://dogukyilmaz.vercel.app).  
-- For the current and actively developed website, please visit: [doguyilmaz.com](https://doguyilmaz.com).
+- The domain [dogukyilmaz.com](https://dogukyilmaz.com) now redirects to the latest version of my personal website.
